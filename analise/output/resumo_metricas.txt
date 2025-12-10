@@ -1,0 +1,12 @@
+Resumo de métricas (gerado por analise_resultados.py)
+
+Número total de casos no histórico: 9
+Casos com ground truth: 9
+
+Taxa de acerto global:
+  Médico A: 0.000
+  Médico B: 0.000
+
+tempo_grafo: média = 17.49 s, desvio-padrão = 4.89 s
+tempo_medicos: média = 8.70 s, desvio-padrão = 1.51 s
+tempo_total: média = 26.19 s, desvio-padrão = 4.80 s
