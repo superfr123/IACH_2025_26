@@ -6,6 +6,8 @@ Primeiramente é preciso ter uma chave API do openai que qualquer um pode obter 
 É preciso que coloquem essa chave no config.py no sitio devidamente sinalizado entre aspas (para ser uma string).
 Para executar o programa basta executar o ficheiro python main.py.
 
+Nota falta o ficheiro: NOTEEVENTS_random_separado_filtred.csv que não é possível por no github por causa do seu tamanho ser muito grande , facam download do kaggle.com da source que deixo no fim deste documento.
+
 O objetivo é explorar um sistema de apoio ao diagnóstico baseado em **grandes modelos de linguagem (LLMs)** que:
 
 1. Recebe **notas clínicas reais** do MIMIC-III;
